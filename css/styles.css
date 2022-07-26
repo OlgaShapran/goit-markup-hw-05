@@ -416,7 +416,7 @@ address {
     position: relative;
     overflow: hidden;
 }
-.project-image-overlay:hover .project-overlay{
+.project-item:hover .project-overlay{
     transform: translateY(0);
 
 }
